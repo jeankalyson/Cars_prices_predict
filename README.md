@@ -3,7 +3,7 @@
 Este projeto tem como objetivo uma análise preditiva de preços de carros baseado em dados de um arquivo de treino.
 
 ## Neste repositório, costa os seguintes arquivos :
-**Dados_Carros**: arquivo com código de colab, que consta toda a evolução e tratamento de dados.
+**LH_CD_JeanKalyson**: arquivo com código de colab, que consta toda a evolução e tratamento de dados, e o relatório dos mesmos.
 
 **requirements**: contém os requisitos e bibliotecas utilizadas no projeto.
 
