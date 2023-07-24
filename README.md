@@ -1,6 +1,6 @@
 # Cars_prices_predict
 
-Este projeto tem como objetivo uma análise preditiva de preços de carros baseado em dados de um arquivo de treino.
+Este projeto tem como objetivo uma análise preditiva de preços de carros baseado em dados de um arquivo de treino. Peço compreensão caso os dados não sejam totalmente os esperados, pois estou buscando sempre evolução e esse curso é uma ótima oportunidade para isso.
 
 ## Neste repositório, costa os seguintes arquivos :
 **LH_CD_JeanKalyson**: arquivo com código de colab, que consta toda a evolução e tratamento de dados, e o relatório dos mesmos.
