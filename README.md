@@ -2,10 +2,13 @@
 
 Este projeto tem como objetivo uma análise preditiva de preços de carros baseado em dados de um arquivo de treino.
 
-Neste repositório, costa os seguintes arquivos :
+## Neste repositório, costa os seguintes arquivos :
 **Dados_Carros**: arquivo com código de colab, que consta toda a evolução e tratamento de dados.
+
 **requirements**: contém os requisitos e bibliotecas utilizadas no projeto.
+
 **cars_test**: Arquivo csv com os dados de teste para análise.
+
 **cars_train**: Arquivo csv com os dados de treino para análise.
 
 **Todo o passo a passo do projeto está no arquivo Dados_Carros. No decorrer do código, é necessário executar as células de código na
@@ -14,9 +17,11 @@ ordem que estão montadas e todas já estão executadas
 **Obs:** Caso for executar o projeto novamente, lembre de atualizar o caminho dos arquivos train e test para o caminho do arquivo em seu dispositivo. Ambos os arquivos estão disponiveis para download.
 
 Cars_train = pd.read_csv(**'caminho do arquivo cars_train.csv'**,encoding='latin-1')
+
 Cars_test = pd.read_csv(**'caminho do arquivo cars_test.csv'**,encoding='latin-1')
 
 **TODAS AS REPOSTAS PARA AS SEGUINTES PERGUNTAS FORAM RESPONDIDAS NO DECORRER DO CÓDIGO:**
+
 1. Utilizando as variáveis (features), faça um relatório com uma análise das
 principais estatísticas da base de dados. Descreva graficamente essas
 variáveis (features), apresentando as suas principais estatísticas descritivas.
@@ -38,4 +43,4 @@ se aproxima dos dados e quais seus prós e contras? Qual medida de
 performance do modelo foi escolhida e por quê?
 
 
-link para o pdf do colab com os arquivos pro precaução: https://drive.google.com/drive/folders/1nTIEYu1Z7Cyq1f-833H658zGfpVV892H?usp=sharing
+**link para o pdf do colab com os arquivos pro precaução:** https://drive.google.com/drive/folders/1nTIEYu1Z7Cyq1f-833H658zGfpVV892H?usp=sharing
