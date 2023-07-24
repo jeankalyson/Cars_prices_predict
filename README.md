@@ -43,4 +43,4 @@ se aproxima dos dados e quais seus prós e contras? Qual medida de
 performance do modelo foi escolhida e por quê?
 
 
-**link para o pdf do colab com os arquivos pro precaução:** https://drive.google.com/drive/folders/1nTIEYu1Z7Cyq1f-833H658zGfpVV892H?usp=sharing
+**link para o pdf do colab com os arquivos por precaução:** https://drive.google.com/drive/folders/1nTIEYu1Z7Cyq1f-833H658zGfpVV892H?usp=sharing
